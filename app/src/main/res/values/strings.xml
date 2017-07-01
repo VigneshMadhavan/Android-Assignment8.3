@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment8.3</string>
+    <string name="BtnLable">Click Here</string>
+    <string name="title">Confirm Delete...</string>
+    <string name="msg">Are you sure you want delete this?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="yesMsg">You confirmed to delete.</string>
+    <string name="noMsg">You confirmed to retain.</string>
+</resources>
